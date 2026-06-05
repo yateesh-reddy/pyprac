@@ -1,0 +1,8 @@
+def area_square(s):
+    return s*s
+
+def area_rectangle(l, b):
+    return l*b
+
+def area_circle(r):
+    return 3.14*r*r
